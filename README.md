@@ -15,8 +15,7 @@ How to use:
 3. Designate Audio files according to Switch positions.
 4. Fly with GLaDOS!
 
-
-===================================================================
+-----------------------------------
 Useless info
 - 👋 Hi, I’m @Verix
 - 👀 I’m interested in interesting things

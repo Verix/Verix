@@ -1,7 +1,8 @@
-Includes some audio files and picutures for OpenTX radios.
+OpenTX-GLaDOS-themepack-by-Verix
 
 -------------------------------
 Credits to the TTS generation website for the voice lines:
+
 15.ai
 
 -----------------------------------

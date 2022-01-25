@@ -8,6 +8,7 @@ Credits to the TTS generation website for the voice lines:
 -----------------------------------
 Here's a Preview and short tutorial on how to use it:
 https://youtu.be/gHh9klvncXA
+
 //This video was made for OpenTX, but the operation for using EdgeTX version is the same.
 
 How to use:

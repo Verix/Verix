@@ -13,7 +13,7 @@ https://youtu.be/gHh9klvncXA
 //This video was made for OpenTX, but the operation for using EdgeTX version is the same.
 
 How to use:
-1. Download [GLaDOS OpenTX Themepack By Verix.rar] /[GLaDOS EdgeTX by Verix.rar]
+1. Download [GLaDOS OpenTX By Verix.rar] /[GLaDOS EdgeTX by Verix.rar]
 2. Extract and overwrite SD card contents.
 3. Designate Audio files according to Switch positions.
 4. Fly with GLaDOS!
